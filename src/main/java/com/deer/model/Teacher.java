@@ -1,5 +1,9 @@
 package com.deer.model;
-
+/**
+ * 
+ * @author ASUS
+ *
+ */
 public class Teacher {
 	private String name;
 

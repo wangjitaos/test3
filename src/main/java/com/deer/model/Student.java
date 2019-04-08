@@ -1,7 +1,7 @@
 package com.deer.model;
 /**
  * 
- * @author ASUS
+ * @author ASUS  wjt
  *
  */
 public class Student {
